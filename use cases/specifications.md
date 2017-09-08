@@ -130,7 +130,7 @@
   </tr>
   <tr>
     <td>Flujo Básico</td>
-    <td>El cliente selecciona el “agregar nueva película”, con lo que se le presentan opciones para agregar una nueva película en determinados cines y datos de funciones de esta misma, una vez ingresados, se presiona guardar y se crea una nueva película con funciones incluidas y cines asociados , que aparece en el listado de películas principal.</td>
+    <td>El empleado selecciona el “agregar nueva película”, con lo que se le presentan opciones para agregar una nueva película en determinados cines y datos de funciones de esta misma, una vez ingresados, se presiona guardar y se crea una nueva película con funciones incluidas y cines asociados , que aparece en el listado de películas principal.</td>
   </tr>
   <tr>
     <td>Flujo alterno 1</td>
