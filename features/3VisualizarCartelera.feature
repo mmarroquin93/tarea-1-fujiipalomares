@@ -1,4 +1,6 @@
-Feature: Yo como usuario, deseo entrar al sistema y poder visualizar las películas que se encuentren en cartelera actualmente, porque me permitirá tomar una decisión, o encontrar la película que deseo ver de manera más rápida y fácil.
+Feature: Yo como usuario, deseo entrar al sistema y poder visualizar las películas 
+  que se encuentren en cartelera actualmente, porque me permitirá tomar una decisión, 
+  o encontrar la película que deseo ver de manera más rápida y fácil.
 
   Scenario: Visualizar películas
     Given el usuario tiene la aplicación instalada
